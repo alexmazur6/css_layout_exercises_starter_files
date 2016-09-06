@@ -1,0 +1,41 @@
+main {
+	font-size:0;
+	width:800px;
+	height:500px;
+	margin:auto;
+
+}
+
+.inner1 {
+	height:200px;
+	width:50%;
+	display:inline-block;
+	border: 1px solid black;
+}
+
+.inner2 {
+	height:300px;
+	width:33.33%;
+	display:inline-block;
+	border: 1px solid black;
+}
+
+.block1 {
+	background-color: green;
+}
+
+.block2 {
+	background-color: blue;
+}
+
+.block3 {
+	background-color: grey;
+}
+
+.block4 {
+	background-color: black;
+}
+
+.block5 {
+	background-color: yellow;
+}
